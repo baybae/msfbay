@@ -198,7 +198,7 @@ def logo():
 	print '---------------------------------------------------'
 	print cyan+' Author  : '+green+'Bayu Setiono {baybae}   '
 	print cyan+' Github  : '+green+'https://github.com/baybae/msfbay '
-	print cyan+' Youtube : '+green+'Bayu Setiono                     '
+	print cyan+' Youtube : '+green+'baybae                     '
 	print putih+'---------------------------------------------------'
 	print ''
 
