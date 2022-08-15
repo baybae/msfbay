@@ -6,7 +6,7 @@ python2 install.py
 ```
 Cara Penggunaan :
 ```
-python2 msfgaf.py
+python2 msfbay.py
 ```
 Reuirements :
 ```
